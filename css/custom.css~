@@ -51,22 +51,5 @@ body > .container {
 /***********End  Home View*********/
 .media-object {
     max-width: 150px;
-    
+    max-height: 200px;
 }
-/*#map {*/
-    /*position: relative;*/
-    /*padding-bottom: 75%; // This is the aspect ratio*/
-/*height: 0;*/
-    /*overflow: hidden;*/
-/*}*/
-#map {
-    position: relative;
-    /*top: 0;*/
-    /*left: 0;*/
-    width: 100% !important;
-    height: 310px !important;
-}
-/*#map {*/
-    /*width: 1140px;*/
-    /*height: 400px;*/
-/*}*/
